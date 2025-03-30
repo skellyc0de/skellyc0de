@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm skellycode</h1>
-<h3 align="center">A front-end programmer and Roblox Developer</h3>
+# About Me - skellyc0de
 
-- 🌱 I’m currently learning **Shader programming and back-end programming**
+Hey there! I'm **skellyc0de**, a young developer with a passion for creating cool things, mainly in game development and web technologies. I've been into **Roblox** for about 5 years, and I've been developing for it for around 3 years now. I specialize in programming with **JavaScript**, **CSS**, **HTML**, and **Python**, but I enjoy dabbling in a bunch of different tech.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discordapp.com/users/1162450109615845447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1162450109615845447" height="30" width="40" /></a>
-</p>
+## What I'm Working On
+Right now, I'm building a **Luau to HLSL compiler** that will hopefully make it easier for people to create custom shaders in Roblox (since Roblox doesn't officially support them). It’s a fun challenge, and I can’t wait to see where it goes!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Skills & Tools I Use
+- **Languages**: JavaScript, Python, Luau, HTML, CSS
+- **Tools**: Git, GitHub, Roblox Studio, Visual Studio Code
+- **Platforms**: Roblox, Web Development, Game Development
+
+## A Little About My Journey
+I've been on Roblox for quite a while, and I started out just playing games. But over time, I got more into **game development**—first by making simple scripts, and then diving into bigger projects. Nowadays, I’m all about experimenting with **graphics programming** and learning how to push the boundaries of what’s possible in Roblox.
+
+## Get in Touch
+If you want to chat or collaborate on something fun, feel free to hit me up on **Discord**: `skellycode`. I’m always up for meeting new devs and sharing ideas.
+
+## P.S.
+I'm still learning and growing in the development world, so expect more cool stuff to come. Stay tuned for updates, and thanks for checking out my profile! 😊
